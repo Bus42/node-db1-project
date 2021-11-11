@@ -37,7 +37,7 @@ const getById = id => {
 module.exports = {
   getAll,
   getById,
-  create,
-  updateById,
-  deleteById,
+  // create,
+  // updateById,
+  // deleteById,
 }
