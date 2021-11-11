@@ -1,7 +1,5 @@
-const express = require('express');
 const accountsModel = require('./accounts-model');
 const router = require('express').Router()
-router.use(express.json());
 
 // [GET] /api/accounts returns an array of accounts (or an empty array if there aren't any).
 router.get('/', (req, res) => {
