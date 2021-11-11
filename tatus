@@ -1,0 +1,606 @@
+[33mcommit 6485a72e8fb0ee9773bc36f99398a8b8335675ce[m[33m ([m[1;36mHEAD -> [m[1;32mgregory-brewton[m[33m, [m[1;31morigin/gregory-brewton[m[33m)[m
+Author: Greg Brewton <gbrewton1980@gmail.com>
+Date:   Wed Nov 10 20:52:00 2021 -0700
+
+    Completes SQL queries
+
+[33mcommit 80947472c0cfebc350005fd0aa6e49555d39ad47[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ladrillo <gabriel@cabrejas.net>
+Date:   Mon Nov 8 14:37:05 2021 +0100
+
+    remove watcher tests
+
+[33mcommit 9512ea6dc83b9b75a76b75c407096d1edddc495f[m
+Author: Ladrillo <gabriel@cabrejas.net>
+Date:   Tue Nov 2 14:40:53 2021 +0100
+
+    port
+
+[33mcommit db5502851f113ff502d4b90a49b62e8735a2dd18[m
+Author: Ladrillo <gabriel@cabrejas.net>
+Date:   Wed Oct 20 16:04:53 2021 -0400
+
+    eslint config
+
+[33mcommit eb35a78b9c849f4dacfca4987dd040cccd0a326d[m
+Author: Ladrillo <gabriel@cabrejas.net>
+Date:   Wed Oct 20 10:58:38 2021 -0400
+
+    jest config
+
+[33mcommit 87d456fe353b57ca977314811adc0bd26689ff71[m
+Author: Ladrillo <gabriel@cabrejas.net>
+Date:   Wed Oct 20 10:56:19 2021 -0400
+
+    upgrade deps
+
+[33mcommit f111d38ebbdc06eb7d86069c6d4bbbeeba80ddce[m
+Author: Ladrillo <gabriel@cabrejas.net>
+Date:   Wed Oct 20 10:52:29 2021 -0400
+
+    lockdown
+
+[33mcommit c361b68a7079cce717825153be35288b9b4c544d[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Oct 4 09:23:01 2021 -0400
+
+    upgrade deps
+
+[33mcommit 89d4aef42896b1d4559ce2fb7a8d866b9b0e925f[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Sep 22 15:38:15 2021 +0200
+
+    readme
+
+[33mcommit db299f115aad96717399fb3fde49d031f08a78c2[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Sep 22 15:28:50 2021 +0200
+
+    readme
+
+[33mcommit 9aa888b040ba6cc58e4658b9235c6c97e6462234[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Aug 9 14:54:50 2021 +0200
+
+    readme
+
+[33mcommit a31a5343775696da4b10a243af9376852b89ad6d[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Aug 9 14:38:57 2021 +0200
+
+    update readme
+
+[33mcommit 1bf777e46c96af4d15f62074014344f9e4f658bf[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Aug 9 14:28:17 2021 +0200
+
+    upgrade deps and tests
+
+[33mcommit 6ca58589306126531f34a792646f99bba3b9ae53[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Jul 12 14:46:47 2021 +0200
+
+    upgrade deps
+
+[33mcommit 455892f095edf5f1a3474355bbe5227f63f688c6[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Jun 7 16:07:18 2021 +0200
+
+    rename test file
+
+[33mcommit 54c8e5618d7d8e7f8d01eec8cebdce3db3665e40[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Jun 7 15:52:26 2021 +0200
+
+    wip
+
+[33mcommit 320b36eed661f8c10b3556a6641d3e5a156377e1[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Fri Apr 9 14:36:48 2021 +0200
+
+    remove async
+
+[33mcommit 40c7dbf5dd9f25eb7b2ec0a8426e7e5fbdac4abe[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Apr 8 19:49:44 2021 +0200
+
+    WIP
+
+[33mcommit dee2e21df4fb85a0e67c7b74f870513e3c9a7dfa[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Apr 8 19:13:19 2021 +0200
+
+    wip
+
+[33mcommit 9fe69cdedd196894665ac1fc98c10debad86def5[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Apr 8 19:06:32 2021 +0200
+
+    wip
+
+[33mcommit d2c1b3264bb726c08f407dd287c8cd5eef3d01dc[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Apr 8 15:56:38 2021 +0200
+
+    wip
+
+[33mcommit 3d5e8b128717573b16683db9bf1fd761f1f74f71[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Apr 8 15:54:29 2021 +0200
+
+    readme
+
+[33mcommit 904f285a2488e533d41efe37f7cc351598bf04f8[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Thu Apr 8 15:49:47 2021 +0200
+
+    upgrade deps
+
+[33mcommit e65fc02e4095ebec9546ea71c3d58757070e6bde[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Mar 15 21:50:44 2021 +0100
+
+    update deps
+
+[33mcommit eb46221275825581cded2131bba623a29a625c83[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Feb 17 21:07:19 2021 +0100
+
+    trim
+
+[33mcommit f31d00506563414899fce91f61a1a9b0ad2c3fa7[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Feb 17 21:00:23 2021 +0100
+
+    remove pg
+
+[33mcommit cec4963207c0ce7812961af80070f59588c8fdf4[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Feb 17 20:55:04 2021 +0100
+
+    update gitignore
+
+[33mcommit f78e0b1ed201284015bdba8ec684336d4967b461[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Feb 17 20:54:13 2021 +0100
+
+    prep for codegrade
+
+[33mcommit 7a46ff48effa39566ef4eb0c8e416430f1f7184b[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Feb 17 20:46:05 2021 +0100
+
+    update for codegrade
+
+[33mcommit 2b605f7e84d66ef445937fa9ae00f72faa918079[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Wed Feb 17 20:36:29 2021 +0100
+
+    upgrade deps, readme
+
+[33mcommit c209acda37fd7157e279876a8ca61abcec0718f8[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Dec 7 15:19:39 2020 +0100
+
+    readme
+
+[33mcommit fa632cc7f37cf90b6be84c2d5a983a53ec360b82[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Dec 7 15:17:50 2020 +0100
+
+    update, add linting
+
+[33mcommit c523361a905b59d3eef9fd68d2bac6c6710499eb[m
+Author: Gabriel Cabrejas <gabriel@cabrejas.net>
+Date:   Mon Nov 2 16:29:23 2020 +0100
+
+    readme
+
+[33mcommit b0de3d28a1f56c713c90519350295ecdcd0ad5a8[m
+Author: Luis Hernandez <luishrd@users.noreply.github.com>
+Date:   Fri Sep 25 17:15:53 2020 -0600
+
+    updates instructions
+
+[33mcommit 294650c068d55fa25498e7b6e8518bf2d712e8d0[m
+Author: Luis Hernandez <luishrd@users.noreply.github.com>
+Date:   Mon Sep 7 19:58:07 2020 -0600
+
+    adds submission format
+
+[33mcommit de05230431f3255a663fe46c7b2dd5766eca7a37[m
+Author: Luis Hernandez <luishrd@users.noreply.github.com>
+Date:   Mon Sep 7 19:56:03 2020 -0600
+
+    adds exit tickets
+
+[33mcommit 93e9f737f4ff540ce320f87aac96bd33d2d6ba50[m
+Merge: 1bebdb6 c716595
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Wed Aug 5 15:15:34 2020 -0600
+
+    Merge branch 'main' of https://github.com/LambdaSchool/node-db1-project into main
+
+[33mcommit 1bebdb67aaae241f5c2a0496ab98859bd9689fcc[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Wed Aug 5 15:15:30 2020 -0600
+
+    updates dependencies
+
+[33mcommit c71659523a45f6702a552b810f65691a6631b0eb[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jul 13 08:36:08 2020 -0600
+
+    updates project name in package.json
+
+[33mcommit c22557a7147a50b792b64cfe94696d400d17a743[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jul 13 08:35:23 2020 -0600
+
+    updates dependencies
+
+[33mcommit 86ae1c2fe3dfb30b8e847930da03a2dadcf04d9e[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Apr 13 09:37:17 2020 -0600
+
+    updates instructions for clarity of stretch
+
+[33mcommit 4cbe74d1c41c7b6b18fd6529b1b669d268106ab7[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Apr 13 09:34:29 2020 -0600
+
+    updates stretch and adds support for postgres
+
+[33mcommit 085615ae6c6621887886fd9f30fda306802343b9[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Apr 13 09:12:18 2020 -0600
+
+    adds postgresql stretch
+
+[33mcommit 14ed526c40e67b16eb47f2f95e4a969baf90df7d[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Apr 13 08:44:18 2020 -0600
+
+    updates dependencies and instructions
+
+[33mcommit bd253ad0c0e2303134f7b1398dd3606737398bcc[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Mar 16 08:51:24 2020 -0400
+
+    moves server to api folder
+
+[33mcommit 3fe7135078257542f5b06bdc8535d89649cb5970[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Mar 16 08:50:49 2020 -0400
+
+    ignores mac files
+
+[33mcommit f96c509fa185e87d3b588d8aeee3688d0f403e75[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Mar 16 08:50:42 2020 -0400
+
+    update dependencies
+
+[33mcommit 0b85ba2b033d26b458ba32c678c452ebc03b768a[m
+Merge: 4620deb a079b47
+Author: Luis Hernandez <luishrd@users.noreply.github.com>
+Date:   Tue Feb 25 16:40:31 2020 -0400
+
+    Merge pull request #390 from jsonmaur/master
+    
+    Seed the database
+
+[33mcommit a079b479789da960423c916b14d9429381af3e92[m
+Author: Jason Maurer <jason@maur.co>
+Date:   Tue Feb 25 00:19:20 2020 -0700
+
+    Seed the database
+
+[33mcommit 4620deb7bc970edab1d6416f1b1d55e6ba4bd08f[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Nov 4 14:49:05 2019 -0700
+
+    renames queries.md to queries.sql
+
+[33mcommit 36e3e09ddec32a445fbf06ce7351322d089bf374[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Nov 4 14:07:56 2019 -0700
+
+    updates dependencies
+
+[33mcommit 69e69b37e2e93451db7a615c669727d2729b631c[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jul 15 13:54:32 2019 -0600
+
+    fixes typo
+
+[33mcommit f562440300e4144d9dd0b1bc235714015f1945bd[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Sun Jul 14 18:07:55 2019 -0600
+
+    updates instructions
+
+[33mcommit 91734c73fe2e7163809109d3c90a6c6d08560476[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Sun Jul 14 17:53:10 2019 -0600
+
+    updates dependencies
+
+[33mcommit 5df4b9de2cbac13b857d00b54b5b66511bc1a3bf[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Sat Jul 13 09:26:01 2019 -0700
+
+    updated stretch
+
+[33mcommit c51ac1e6c39f2ebd3eb297bf5f53ddb3333f912e[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Sat Jul 13 09:23:13 2019 -0700
+
+    removed helpers
+
+[33mcommit ceea2c8a1fe14a04148f4dc08eff18047fa0141e[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Fri Jul 12 15:50:07 2019 -0700
+
+    endpoints added
+
+[33mcommit 9b2962940ae6f9755367ce620bbe8439abf96022[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Sat Jul 6 18:11:01 2019 -0700
+
+    removed delete problem
+
+[33mcommit ffd1807d808fe6dc568007049022622b49a23058[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Sat Jul 6 18:08:40 2019 -0700
+
+    removed LIKE problem
+
+[33mcommit 0041b0f3fe6572816daa945d7d60ec64b23364cd[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Sat Jul 6 18:07:41 2019 -0700
+
+    updated database extension
+
+[33mcommit ab2465aa9f1a80db5c29ab121297894dda262b06[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Tue Jun 4 14:21:35 2019 +0100
+
+    query obj formatting
+
+[33mcommit e6626298d5e1bed4c23d8e1149b15d5260fcc705[m
+Merge: ae49953 183c161
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Tue Jun 4 14:19:04 2019 +0100
+
+    finalized readme
+
+[33mcommit 183c16135f418b32bdb14255a25216571682d4ce[m
+Merge: 3b46de2 3eeac13
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Tue Jun 4 14:17:21 2019 +0100
+
+    pulled changes from master
+
+[33mcommit ae49953eab381ced57101afbbc357831f339bf92[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Tue Jun 4 14:15:05 2019 +0100
+
+    updated queries
+
+[33mcommit 3b46de21d1b587658993d6a84a7dfe043e8559cd[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Mon Jun 3 17:57:34 2019 +0100
+
+    updated query assignments
+
+[33mcommit 3eeac13dae986d46896021d4f563b76c8bb571b1[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jun 3 08:57:11 2019 -0600
+
+    updates instructions
+
+[33mcommit 9ea0560518bc8a8b792753d39d33ec0e55eea73a[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jun 3 08:29:22 2019 -0600
+
+    fixes typo
+
+[33mcommit 81d7507df375d9a8e9b82003f4191dfb9985a1de[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jun 3 08:25:37 2019 -0600
+
+    updates instructions
+
+[33mcommit e768589a35b4fdfa1d621a6fe6e58b84c663cba1[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jun 3 08:25:25 2019 -0600
+
+    updates dependencies
+
+[33mcommit 0f823dd77a54be85131959d728a0516b7007de05[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Sun May 26 20:44:15 2019 +0100
+
+    updated requirements
+
+[33mcommit 9221bbcb83e04ffb4d5664e6d719d2db5300409a[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Wed May 22 21:35:18 2019 -0400
+
+    added db
+
+[33mcommit 6f05e31dfd452ec4bebeff1ef7ad9728e4d0b730[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Wed May 22 21:20:39 2019 -0400
+
+    updated requirements
+
+[33mcommit f89f4bd4ba42b421e17e95c607f471f3fee67b41[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Wed May 22 21:00:31 2019 -0400
+
+    removed index.js and server.js
+
+[33mcommit 3067071772f495fc2fbf4822493cdc4a2e0231a4[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Wed May 22 20:56:54 2019 -0400
+
+    removed existing helper methods
+
+[33mcommit a9ecf6405706087feff49523e8bd994ed441536d[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Fri May 17 06:42:46 2019 -0700
+
+    additional instruction
+
+[33mcommit d639f47515e6be9b6c7a1234a9bb9fc82dc954a2[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Thu May 16 16:26:24 2019 -0700
+
+    fixed bugs in model
+
+[33mcommit 0e43f06d41629bf159f709b3105ac58be4605b30[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Thu May 16 16:12:10 2019 -0700
+
+    renamed db to match README
+
+[33mcommit 7931e0c8a275c37d31d7dbc0042d1f7d007192d5[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Thu May 16 16:11:37 2019 -0700
+
+    updated instructions
+
+[33mcommit c4fb94c798c5f2c684aa25333c89b59cc167f7af[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Thu May 16 08:36:29 2019 -0700
+
+    server setup
+
+[33mcommit cac3250889cc323360592af094d014f7a653c09f[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Thu May 16 08:33:45 2019 -0700
+
+    added db helpers
+
+[33mcommit c21d746f5e5fb86b67a20f30bf5b7ae57d1422a0[m
+Author: Diandra Ryan-Mas <dryanmas@Diandras-MacBook-Air.local>
+Date:   Thu May 16 08:28:20 2019 -0700
+
+    set up file structure
+
+[33mcommit 5d0e54d902b9e3b71e8596af94ba3257c30dbc1a[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Mar 25 08:40:11 2019 -0600
+
+    update instructions
+
+[33mcommit 7a70959e20f32d4436d19420f13a0274a51df251[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jan 14 07:13:31 2019 -0700
+
+    updates instructions
+
+[33mcommit 7002025c0006b597f0ac355fb21dd86abc9ba0ae[m
+Author: Luis Hernandez <luishrd@users.noreply.github.com>
+Date:   Tue Nov 13 11:08:35 2018 -0700
+
+    updates instructions for clarity
+
+[33mcommit feb7860079c7867234e7a8b7d0bb6e09b0d41a2d[m
+Author: Luis Hernandez <luishrd@users.noreply.github.com>
+Date:   Tue Nov 13 11:07:50 2018 -0700
+
+    fixes instructions
+
+[33mcommit 7254fa768dbc1584c822369df3c98d161d0ea7d6[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 11:24:33 2018 -0600
+
+    updates instructions
+
+[33mcommit 378be24b63116de40d6aeb89718d11936661378b[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 10:46:59 2018 -0600
+
+    updates instructions
+
+[33mcommit 0bc8dd8afacbf3a047ff4490bc5488680b3f85ae[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 10:42:39 2018 -0600
+
+    updates instructions
+
+[33mcommit 188a6cde5702ecf7cfa8a8c40627dc2f4fa9378e[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 09:52:11 2018 -0600
+
+    updates instructions
+
+[33mcommit 00688832a5c190ff2b9fbf5b27ee3b27f9432f9a[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 09:47:48 2018 -0600
+
+    updates instructions
+
+[33mcommit cbc66123f3d8c50628d55e46c650a7b82df94570[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 09:37:05 2018 -0600
+
+    updates instructions
+
+[33mcommit 6e6f56111ff2594dd2ce19cdb98d32b218003bfc[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 09:33:45 2018 -0600
+
+    updates instructions
+
+[33mcommit 115e7b71382038b14c5f9ccaf8325d6d60a780d2[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 09:31:04 2018 -0600
+
+    updates instructions
+
+[33mcommit 745ebaae8526dbaed5a261dbdd7e3724df13c9ae[m
+Merge: 248ad0d cd4c5de
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 09:23:47 2018 -0600
+
+    merge
+
+[33mcommit 248ad0df6614f0d6d9048196871bab0404679cdc[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Fri Aug 31 09:21:47 2018 -0600
+
+    updates instructions
+
+[33mcommit cd4c5dee8851cf8fd9ea601c36a57035286c6151[m
+Author: Luis Hernandez <luishrd@users.noreply.github.com>
+Date:   Mon Jul 30 14:57:56 2018 -0600
+
+    updates instructions
+
+[33mcommit ac058f1fce931e5f094f0bde398ee48ee104f929[m
+Author: Luis Hernandez <luishrd@users.noreply.github.com>
+Date:   Mon Jul 30 11:41:48 2018 -0600
+
+    updates instructions
+
+[33mcommit c832dd086778eef117c12c0f5a1d3afc05e9a695[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jul 30 09:53:24 2018 -0600
+
+    updates instructions
+
+[33mcommit f186f9a6c8331bbc6cd816a0d8007dfafee7f8a8[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jul 30 09:52:56 2018 -0600
+
+    updates instructions
+
+[33mcommit 7f083a10a955d6a69bb248966ec2b08c365ce916[m
+Author: Luis Hernandez <luishrd@gmail.com>
+Date:   Mon Jul 30 09:51:18 2018 -0600
+
+    updates readme
