@@ -1,20 +1,13 @@
 const db = require('../../data/db-config');
 
 // resolves to an array of accounts (or an empty array)
-const getAll = () => {
+// resolves to an account by the given id
+const get = () =>
   db('accounts')
     .then(accounts => {
-      return accounts.length ? accounts : [];
-    })
-}
+      return accounts.length ? accounts : []
+    });
 
-// resolves to an account by the given id
-const getById = id => {
-  db('accounts').where({ id })
-    .then(account => {
-      return account.length ? account[0] : null;
-    })
-}
 
 // // resolves to the newly created account
 // const create = account => {
@@ -35,8 +28,8 @@ const getById = id => {
 // }
 
 module.exports = {
-  getAll,
-  getById,
+  get,
+  // getById,
   // create,
   // updateById,
   // deleteById,

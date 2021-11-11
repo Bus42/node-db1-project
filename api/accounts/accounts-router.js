@@ -11,12 +11,12 @@ router.get('/', (req, res) => {
 })
 
 // [GET] /api/accounts/:id returns an account by the given id.
-router.get('/:id', (req, res) => {
-  const id = req.params.id
-  accountsModel.getById(id).then(account => {
-    account ? res.status(200).send(account) : res.status(404).send({ message: 'Error fetching account' })
-  })
-})
+// router.get('/:id', (req, res) => {
+//   const id = req.params.id
+//   accountsModel.getById(id).then(account => {
+//     account ? res.status(200).send(account) : res.status(404).send({ message: 'Error fetching account' })
+//   })
+// })
 
 // // [POST] /api/accounts returns the created account. Leading or trailing whitespace on budget name should be trimmed before saving to db.
 // router.post('/', (req, res) => {
