@@ -10,11 +10,8 @@ const get = (id) => id
 
 
 // resolves to the newly created account
-const create = account => {
-  db.insert(account).into('accounts')
-    .then(db('accounts').where({ id: account.id }).then(account => {
-      return account.length ? account[0] : null;
-    }))
+function create(account) {
+  console.log(account)
 }
 
 // // resolves to the updated account

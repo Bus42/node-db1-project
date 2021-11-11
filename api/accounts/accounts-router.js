@@ -16,10 +16,16 @@ router.get('/:id', (req, res) => {
   })
 })
 
-// // [POST] /api/accounts returns the created account. Leading or trailing whitespace on budget name should be trimmed before saving to db.
-// router.post('/', (req, res) => {
-//   // DO YOUR MAGIC
-// })
+// [POST] /api/accounts returns the created account. Leading or trailing whitespace on budget name should be trimmed before saving to db.
+router.post('/', (req, res) => {
+  const account = { ...req.body, name: req.body.name.trim() }
+  accountsModel
+    .create(account)
+    res.status(200).end();
+    // .then(account => {
+    //   account ? res.status(200).send(account) : res.status(500).send({ message: 'Error creating account' })
+    // })
+})
 
 // // [PUT] /api/accounts/:id returns the updated account. Leading or trailing whitespace on budget name should be trimmed before saving to db.
 // router.put('/:id', (req, res) => {
