@@ -1,27 +1,44 @@
+const accountsModel = require('./accounts-model');
 const router = require('express').Router()
 
-router.get('/', (req, res, next) => {
-  // DO YOUR MAGIC
+// [GET] /api/accounts returns an array of accounts (or an empty array if there aren't any).
+router.get('/', (req, res) => {
+  accountsModel.get().then(accounts => {
+    accounts ? res.status(200).send(accounts) : res.status(404).send({ message: 'Error fetching accounts' })
+  })
 })
 
-router.get('/:id', (req, res, next) => {
-  // DO YOUR MAGIC
+// [GET] /api/accounts/:id returns an account by the given id.
+router.get('/:id', (req, res) => {
+  const id = req.params.id
+  accountsModel.get(id).then(account => {
+    account ? res.status(200).send(account) : res.status(404).send({ message: 'Error fetching account' })
+  })
 })
 
-router.post('/', (req, res, next) => {
-  // DO YOUR MAGIC
+// [POST] /api/accounts returns the created account. Leading or trailing whitespace on budget name should be trimmed before saving to db.
+router.post('/', (req, res) => {
+  const account = { ...req.body, name: req.body.name.trim() }
+  accountsModel
+    .create(account)
+    res.status(200).end();
+    // .then(account => {
+    //   account ? res.status(200).send(account) : res.status(500).send({ message: 'Error creating account' })
+    // })
 })
 
-router.put('/:id', (req, res, next) => {
-  // DO YOUR MAGIC
-});
+// // [PUT] /api/accounts/:id returns the updated account. Leading or trailing whitespace on budget name should be trimmed before saving to db.
+// router.put('/:id', (req, res) => {
+//   // DO YOUR MAGIC
+// });
 
-router.delete('/:id', (req, res, next) => {
-  // DO YOUR MAGIC
-})
+// // [DELETE] /api/accounts/:id returns the deleted account.
+// router.delete('/:id', (req, res) => {
+//   // DO YOUR MAGIC
+// })
 
-router.use((err, req, res, next) => { // eslint-disable-line
-  // DO YOUR MAGIC
-})
+// router.use((err, req, res) => { // eslint-disable-line
+//   // DO YOUR MAGIC
+// })
 
 module.exports = router;
