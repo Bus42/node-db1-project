@@ -16,6 +16,7 @@ const accounts = [
 
 exports.accounts = accounts
 
+// eslint-disable-next-line no-unused-vars
 exports.seed = function (knex, Promise) {
   return knex('accounts').truncate()
     .then(function () {
